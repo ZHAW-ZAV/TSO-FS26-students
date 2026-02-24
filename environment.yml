@@ -6,7 +6,7 @@ dependencies:
   - python=3.12
   - traffic
   - plotly
-  - kaleido
+  - python-kaleido
   - xlrd
   - ipykernel
   - nbformat
