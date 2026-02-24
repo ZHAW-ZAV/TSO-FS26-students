@@ -13,3 +13,4 @@ dependencies:
   - gdown
   - fitter
   - simpy
+  - matplotlib
